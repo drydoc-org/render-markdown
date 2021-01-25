@@ -1,0 +1,9 @@
+{
+  "name": "render-markdown",
+  "version": "1.0.0",
+  "description": "Markdown renderer for drydoc",
+  "main": "dist/index.js",
+  "repository": "https://github.com/drydoc-org/render-markdown",
+  "author": "Semio AI, Inc.",
+  "license": "BSD-3-Clause"
+}
